@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Academic Status: MSc in Operational Research with Data Science<br>🌱 Just Started Learning: AWS SageMaker,GCP,Looker, SnowFlake <br>
+🔭 Academic Status: MSc in Operational Research with Data Science<br>🌱 Just Started Learning: AWS SageMaker, IBM Watson and GCP <br>
 
 
 # 💻 Tech Stack:
