@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Academic Status: MSc in Operational Research with Data Science, UoE 
+Hi, I'm a dynamic entrepreneur with a deep understanding of Artificial Intelligence (AI) and Data Science, specializing in Machine Learning (ML). My passion for innovation and technology has always driven me to create AI-driven solutions that solve real-world challenges.
 
 
 # 💻 Tech Stack:
