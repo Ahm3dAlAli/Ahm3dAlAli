@@ -3,7 +3,6 @@ Hi, I'm a dynamic entrepreneur with a deep understanding of Artificial Intellige
 
 
 # 💻 Tech Stack:
-# Tech Stack Overview
 
 ## Programming Languages and Frameworks
 - ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
