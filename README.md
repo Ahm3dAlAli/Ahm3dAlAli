@@ -28,12 +28,12 @@ Hi, I'm a dynamic entrepreneur with a deep understanding of Artificial Intellige
 - ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
 
 ## DevOps and Cloud Services
-- ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
-- ![Docker](https://img.shields.io/badge/Docker-4059f7?style=for-the-badge&logo=Docker&logoColor=4059f7&color=c7cced)
+<!-- - ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) -->
+<!-- - ![Docker](https://img.shields.io/badge/Docker-4059f7?style=for-the-badge&logo=Docker&logoColor=4059f7&color=c7cced) -->
 - ![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-- ![Kubernetes](https://img.shields.io/badge/Kubernetes-black?style=for-the-badge&logo=Kubernetes&logoColor=white&color=%23771bb5)
-- ![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
-- ![Mlflow](https://img.shields.io/badge/Mlflow-black?style=for-the-badge&logo=Mlflow&logoColor=27c3e6&color=2e3a87)
+<!-- - ![Kubernetes](https://img.shields.io/badge/Kubernetes-black?style=for-the-badge&logo=Kubernetes&logoColor=white&color=%23771bb5) -->
+<!-- - ![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) -->
+<!-- - ![Mlflow](https://img.shields.io/badge/Mlflow-black?style=for-the-badge&logo=Mlflow&logoColor=27c3e6&color=2e3a87) -->
 - ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
 - ![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
