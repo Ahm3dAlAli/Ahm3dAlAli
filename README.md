@@ -15,20 +15,19 @@ PhD since:  September 2024 @ UZH
 
 🔬 **Under review at ECCV 2026** — Benchmarking VLMs for open-set recognition across 9 architectures, 22 detection methods, and 5 datasets
 
-🎯 **Working toward NeurIPS 2026** — Open-set recognition & OOD detection in vision-language models
+🎯 **Working toward NeurIPS 2026** 
 
-⚖️ **[FINGERPRINT²](https://github.com/fingerprint-squared/benchmark)** — Multi-dimensional bias fingerprinting for VLMs. Deterministic scoring pipeline (no LLM judge). Presented at [GenAI Zürich Hackathon 2026](https://www.genaizurich.ch/hackathon)
-
+⚖️ **[FINGERPRINT²](https://github.com/Ahm3dAlAli/FingerPrint)** — Multi-dimensional bias fingerprinting for VLMs. Deterministic scoring pipeline (no LLM judge). Presented at [GenAI Zürich Hackathon 2026](https://www.genaizurich.ch/hackathon)
+🛡️ **[A²-Bench](https://github.com/Ahm3dAlAli/A2-Bench)** — Dual-control safety benchmark for AI agents across healthcare, finance, and legal domains. 203 constraints, 4 adversarial strategies, ~7,200 episodes (no model passes 0.9). Under review at [NeurIPS 2026](https://neurips.cc/Conferences/2026)
 ---
 
 ### Open for Collaboration
-
 I'm interested in working with people on:
-
 - **Bias auditing** for vision-language and multimodal models
 - **Adversarial robustness** evaluation for AI agents in high-stakes domains
 - **Open-set recognition** and OOD detection methods for VLMs
 - **Reproducible fairness benchmarks** with deterministic scoring
+- **Safety Alignment in AI Systems** 
 
 If any of this overlaps with your work, feel free to reach out.
 
