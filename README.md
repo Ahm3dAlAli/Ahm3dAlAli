@@ -55,7 +55,7 @@ If any of this overlaps with your work, feel free to reach out.
 
 ### Links
 
-[🎓 Google Scholar](https://scholar.google.com/citations%3Fuser%3D8S0l1uMAAAAJ%26hl%3Den&ved=2ahUKEwjDw6firsaTAxXCygIHHVcrNtsQFnoECBIQAQ&usg=AOvVaw08ueF4n7PgPdnemfjsF8T2) · [🏛️ UZH Profile](https://www.ifi.uzh.ch/en/aiml/people/al-ali.html) · [📧 al-ali@ifi.uzh.ch](mailto:alali@ifi.uzh.ch)
+[🎓 Google Scholar](https://scholar.google.com/citations?user=iWFIz0sAAAAJ&hl) · [🏛️ UZH Profile](https://www.ifi.uzh.ch/en/aiml/people/al-ali.html) · [📧 al-ali@ifi.uzh.ch](mailto:alali@ifi.uzh.ch)
 
 ---
 
