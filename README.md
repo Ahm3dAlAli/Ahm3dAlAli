@@ -1,13 +1,12 @@
 ## Ahmed Al-Ali
-
 **PhD Researcher** · [AIML Group](https://www.ifi.uzh.ch/en/aiml/people/al-ali.html), Department of Informatics, University of Zurich
 
 I study how AI systems fail — and how to make them fairer, more robust, and more reliable. My research focuses on vision-language models, open-set recognition, bias auditing, and AI agent safety.
 
-```
+\```
 Interests:  AI Fairness · Robustness · Reliability · VLMs · OOD Detection · AI Safety
 PhD since:  September 2024 @ UZH
-```
+\```
 
 ---
 
@@ -15,7 +14,7 @@ PhD since:  September 2024 @ UZH
 
 🔬 **Under review at ECCV 2026** — Benchmarking VLMs for open-set recognition across 9 architectures, 22 detection methods, and 5 datasets
 
-🎯 **Working toward NeurIPS 2026** 
+🎯 **Working toward NeurIPS 2026**
 
 ⚖️ **[FINGERPRINT²](https://github.com/Ahm3dAlAli/FingerPrint)** — Multi-dimensional bias fingerprinting for VLMs. Deterministic scoring pipeline (no LLM judge). To be Presented at [GenAI Zürich Hackathon 2026](https://www.genaizurich.ch/hackathon)
 
@@ -23,13 +22,24 @@ PhD since:  September 2024 @ UZH
 
 ---
 
+### Hackathons
+
+| 🏆 | Project | Event |
+|---|---------|-------|
+| 🥇 | **NexusAI** — Autonomous multi-agent research assistant | AgentCraft Hackathon × LangChain |
+| 🥇 | **AdaptEdge** | Ministry of AI Hackathon — Dubai |
+| 🥇 | **Astral** | AVA Labs Hackathon |
+
+---
+
 ### Open for Collaboration
+
 I'm interested in working with people on:
 - **Bias auditing** for vision-language and multimodal models
 - **Adversarial robustness** evaluation for AI agents in high-stakes domains
 - **Open-set recognition** and OOD detection methods for VLMs
 - **Reproducible fairness benchmarks** with deterministic scoring
-- **Safety Alignment in AI Systems** 
+- **Safety Alignment in AI Systems**
 
 If any of this overlaps with your work, feel free to reach out.
 
