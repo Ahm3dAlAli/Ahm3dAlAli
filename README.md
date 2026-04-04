@@ -27,8 +27,8 @@ PhD since:  September 2024 @ UZH
 | 🏆 | Project | Event |
 |---|---------|-------|
 | 🥇 | **NexusAI** — Autonomous multi-agent research assistant | AgentCraft Hackathon × LangChain |
-| 🥇 | **AdaptEdge** | Ministry of AI Hackathon — Dubai |
-| 🥇 | **Astral** | AVA Labs Hackathon |
+| 🥇 | **AdaptEdge** - Digital Transformation for SMEs | Ministry of AI Hackathon — Dubai |
+| 🥇 | **Astral** - Insitiational Stableceoin with Embedded Compliance | AVA Labs Hackathon |
 
 ---
 
