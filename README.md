@@ -16,7 +16,7 @@ PhD since:  September 2024 @ UZH
 
 🎯 **Working toward NeurIPS 2026**
 
-⚖️ **[FINGERPRINT²](https://github.com/Ahm3dAlAli/FingerPrint)** — Multi-dimensional bias fingerprinting for VLMs. Deterministic scoring pipeline (no LLM judge). To be Presented at [GenAI Zürich Hackathon 2026](https://www.genaizurich.ch/hackathon)
+⚖️ **[FINGERPRINT²](https://github.com/Ahm3dAlAli/FingerPrint)** — Multi-dimensional bias fingerprinting for VLMs. Deterministic scoring pipeline (no LLM judge). Presented at [GenAI Zürich Hackathon 2026](https://www.genaizurich.ch/hackathon)
 
 🛡️ **[A²-Bench](https://github.com/Ahm3dAlAli/A2-Bench)** — Dual-control safety benchmark for AI agents across healthcare, finance, and legal domains. 203 constraints, 4 adversarial strategies, ~7,200 episodes (no model passes 0.9).
 
