@@ -3,10 +3,10 @@
 
 I study how AI systems fail — and how to make them fairer, more robust, and more reliable. My research focuses on vision-language models, open-set recognition, bias auditing, and AI agent safety.
 
-\```
+```
 Interests:  AI Fairness · Robustness · Reliability · VLMs · OOD Detection · AI Safety
 PhD since:  September 2024 @ UZH
-\```
+```
 
 ---
 
@@ -26,9 +26,10 @@ PhD since:  September 2024 @ UZH
 
 | 🏆 | Project | Event |
 |---|---------|-------|
+| 🥇 | **[τ²-Adv Bench](https://github.com/Ahm3dAlAli/tau2-adv-bench)** — Adversarial safety evaluation layer for τ-bench | [UC Berkeley AgentBeats Hackathon](https://rdi.berkeley.edu/agentx/) · τ²-Bench Track · Sponsored by [Sierra](https://sierra.ai) |
 | 🥇 | **NexusAI** — Autonomous multi-agent research assistant | AgentCraft Hackathon × LangChain |
-| 🥇 | **AdaptEdge** - Digital Transformation for SMEs | Ministry of AI Hackathon — Dubai |
-| 🥇 | **Astral** - Insitiational Stableceoin with Embedded Compliance | AVA Labs Hackathon |
+| 🥇 | **AdaptEdge** — Digital Transformation for SMEs | Ministry of AI Hackathon — Dubai |
+| 🥇 | **Astral** — Institutional Stablecoin with Embedded Compliance | AVA Labs Hackathon |
 
 ---
 
