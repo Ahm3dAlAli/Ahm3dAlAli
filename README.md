@@ -26,7 +26,7 @@ PhD since:  September 2024 @ UZH
 
 | 🏆 | Project | Event |
 |---|---------|-------|
-| 🥇 | **τ²-Adv Bench** — Adversarial safety evaluation layer for τ-bench | [UC Berkeley AgentBeats Hackathon](https://rdi.berkeley.edu/agentx/) · τ²-Bench Track · Sponsored by [Sierra](https://sierra.ai) |
+| 🥇 | **τ²-Adv Bench** — Adversarial safety evaluation layer for τ-bench | [UC Berkeley AgentBeats Hackathon](https://rdi.berkeley.edu/agentx-agentbeats.html) · τ²-Bench Track · Sponsored by [Sierra](https://sierra.ai) |
 | 🥇 | **NexusAI** — Autonomous multi-agent research assistant | AgentCraft Hackathon × LangChain |
 | 🥇 | **AdaptEdge** — Digital Transformation for SMEs | Ministry of AI Hackathon — Dubai |
 | 🥇 | **Astral** — Institutional Stablecoin with Embedded Compliance | AVA Labs Hackathon |
