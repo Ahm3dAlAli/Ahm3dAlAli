@@ -14,11 +14,8 @@ PhD since:  September 2024 @ UZH
 
 🔬 **Under review at ECCV 2026** — Benchmarking VLMs for open-set recognition across 9 architectures, 22 detection methods, and 5 datasets
 
-🎯 **Working toward NeurIPS 2026**
+🎯 **Working toward**
 
-⚖️ **[FINGERPRINT²](https://github.com/Ahm3dAlAli/FingerPrint)** — Multi-dimensional bias fingerprinting for VLMs. Deterministic scoring pipeline (no LLM judge). Presented at [GenAI Zürich Hackathon 2026](https://www.genaizurich.ch/hackathon)
-
-🛡️ **[A²-Bench](https://github.com/Ahm3dAlAli/A2-Bench)** — Dual-control safety benchmark for AI agents across healthcare, finance, and legal domains. 203 constraints, 4 adversarial strategies, ~7,200 episodes (no model passes 0.9).
 
 ---
 
@@ -26,7 +23,7 @@ PhD since:  September 2024 @ UZH
 
 | 🏆 | Project | Event |
 |---|---------|-------|
-| 🥇 | **τ²-Adv Bench** — Adversarial safety evaluation layer for τ-bench | [UC Berkeley AgentBeats Hackathon](https://rdi.berkeley.edu/agentx-agentbeats.html) · τ²-Bench Track · Sponsored by [Sierra](https://sierra.ai) |
+| 🥇 | **τ²-Adv Bench** — Adversarial safety evaluation layer for τ²-bench | [UC Berkeley AgentBeats Hackathon](https://rdi.berkeley.edu/agentx-agentbeats.html) · τ²-Bench Track · Sponsored by [Sierra](https://sierra.ai) |
 | 🥇 | **NexusAI** — Autonomous multi-agent research assistant | AgentCraft Hackathon × LangChain |
 | 🥇 | **AdaptEdge** — Digital Transformation for SMEs | Ministry of AI Hackathon — Dubai |
 | 🥇 | **Astral** — Institutional Stablecoin with Embedded Compliance | AVA Labs Hackathon |
