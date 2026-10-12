@@ -1,5 +1,5 @@
 ## Ahmed Al-Ali
-**PhD Researcher** · [AIML Group](https://www.ifi.uzh.ch/en/aiml/people/al-ali.html), Department of Informatics, University of Zurich
+**PhD Researcher** · [DILI Group](https://www.cl.uzh.ch/de/about-us/people/team/digital-linguistics.html), Department of Informatics, University of Zurich
 
 I study how AI systems fail — and how to make them fairer, more robust, and more reliable. My research focuses on vision-language models, open-set recognition, bias auditing, and AI agent safety.
 
