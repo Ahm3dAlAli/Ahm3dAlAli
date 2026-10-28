@@ -12,11 +12,6 @@ PhD since:  September 2024 @ UZH
 
 ### What I'm Working On
 
-🔬 ** Accepted to WACV 2026** — Benchmarking VLMs for open-set recognition across 9 architectures, 22 detection methods, and 5 datasets
-
-🎯 **Working toward**
-
-
 
 ---
 
